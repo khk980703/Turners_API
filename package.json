@@ -4,9 +4,8 @@
   "description": "Turners Quote API",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "test": "jest",
-    "build": "webpack --config webpack.config.js"
+    "build": "nodemon index.js",
+    "test": "jest"
   },
   "author": "David Kim",
   "license": "ISC",
