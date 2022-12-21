@@ -4,7 +4,7 @@
   "description": "Turners Quote API",
   "main": "index.js",
   "scripts": {
-    "build": "nodemon index.js",
+    "dev": "nodemon index.js",
     "test": "jest"
   },
   "author": "David Kim",
